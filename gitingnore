@@ -1,0 +1,4 @@
+*.dat
+results/
+# this will delete files ending with ,dat and which are in result directory
+
